@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/82855e8b-6ae5-4d0c-8cc2-c4689297c270
 ### マルチモジュール化したい
 
 - `app`モジュールの追加
-- `feature`モジュールを作成し配下にそれぞれ
+- `feature`モジュールを作成し配下に画面を配置
   - `feature:taskList`
   - `feature:taskInput`
 - `build-logic`モジュールを追加しコンベンションプラグインをマルチモジュール環境で適用
