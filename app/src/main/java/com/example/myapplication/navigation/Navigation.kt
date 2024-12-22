@@ -3,8 +3,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.myapplication.MainScreen
-import com.example.myapplication.TaskInputScreen
+import com.example.myapplication.ui.MainScreen
+import com.example.myapplication.ui.TaskInputScreen
 
 @Composable
 fun AppNavigation() {
