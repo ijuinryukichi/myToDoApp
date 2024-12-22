@@ -11,6 +11,7 @@ https://github.com/user-attachments/assets/82855e8b-6ae5-4d0c-8cc2-c4689297c270
 ### マルチモジュール化したい
 
 - `app`モジュールの追加
+   各画面コンポーザブルとの切り分けのため
 - `feature`モジュールを作成し配下に画面を配置
   - `feature:taskList`
   - `feature:taskInput`
